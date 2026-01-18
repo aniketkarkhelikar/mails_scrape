@@ -1,3 +1,4 @@
+# VIBE CODED FOR FUN
 # Google Classroom Email Scraper
 
 This project scrapes student data from multiple Google Classroom courses and generates email addresses based on a specific pattern. The data is saved to a CSV file (`classmates_emails.csv`) with full names and emails, ignoring duplicates based on registration numbers.
